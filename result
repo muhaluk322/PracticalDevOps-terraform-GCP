@@ -1,0 +1,6 @@
+instance_image_id = "ubuntu-os-cloud/ubuntu-2204-lts"
+instance_network = "vpc-development"
+instance_public_ip = "34.118.64.21"
+instance_subnet = "subnet-development"
+instance_type = "e2-micro"
+instance_zone = "europe-central2-a"
